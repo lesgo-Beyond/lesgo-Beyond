@@ -2,7 +2,7 @@
 - ----------------------
 - 👀 I’m interested in doing things that please me.
 - ----------------------
-- 🌱 I'm focused on my studies right now, and I dedicate 60 minutes daily to learn Japanese and improve my skills.
+- 🌱 I'm focused on my studies right now, and I dedicate 60 minutes daily to improve my skills.
 - ----------------------
 - ----------------------
 - 📫 How to reach me:
