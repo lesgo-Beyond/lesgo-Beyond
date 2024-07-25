@@ -1,5 +1,4 @@
-![main - Copy](https://github.com/Sazedur707/Sazedur707/assets/144597834/6492a657-1077-449e-97c0-f5217737dca7)
-- 👋 Hi, I’m @Sazedur707
+- 👋 Hi, I’m @Sazedur
 - ----------------------
 - 👀 I’m interested in doing things that please me.
 - ----------------------
