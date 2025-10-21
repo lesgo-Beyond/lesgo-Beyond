@@ -38,11 +38,6 @@ I love building immersive experiences, exploring AI, and creating clean, functio
 
 ---
 
-## 📈 GitHub Stats
-![Sazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesgo-Beyond&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/md-sazedur-rahman-7a0103328/))
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/your-twitter](https://x.com/sazi_zZz))
