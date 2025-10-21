@@ -39,7 +39,7 @@ I love building immersive experiences, exploring AI, and creating clean, functio
 ---
 
 ## 📈 GitHub Stats
-![Sazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Sazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesgo-Beyond&show_icons=true&theme=radical)
 
 ---
 
