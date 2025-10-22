@@ -4,7 +4,7 @@
 
 ---
 
-## What I wish to learn within the next ![Countdown](https://img.shields.io/badge/Until-in%201825%20days-brightgreen):
+## What I wish to learn next:
 - Everything that will make me a **Full-Stack Developer**  
 - How to create **advanced VR worlds**  
 - How to make VR worlds feel more **realistic**, so that when people use them, it feels like the real world  
