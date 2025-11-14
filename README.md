@@ -1,6 +1,6 @@
 # Frontend Developer
 
-**Skills:** HTML, CSS, JS & WordPress
+**Skills:** HTML, CSS, JS, PHP & WordPress
 
 ---
 
