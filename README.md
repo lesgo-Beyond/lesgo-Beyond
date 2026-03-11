@@ -6,11 +6,11 @@
 
 ---
 
-## What I wish to learn next:
-- Everything that will make me a **Full-Stack Developer**  
-- How to create **advanced VR worlds**  
-- How to make VR worlds feel more **realistic**, so that when people use them, it feels like the real world  
-- **AI & Robotics** (specifically, I want to learn to build automated drones)
+## My interest area:
+- UX/UI Engineering and Prototyping & Designing products [Web & Mobile Apps]
+- Web & VR Engineering
+- Hardwares
+- Computer Vision, Drone Automation, Robotics 
 
 ---
 
