@@ -9,7 +9,7 @@
 ## My interest area:
 - UX/UI Engineering and Prototyping & Designing products [Web & Mobile Apps]
 - Web & VR Engineering
-- Hardwares
+- Hardwares + AI + Robotics
 - Computer Vision, Drone Automation, Robotics 
 
 ---
