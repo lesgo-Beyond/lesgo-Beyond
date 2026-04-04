@@ -1,4 +1,4 @@
-![anteiku](.img/githubBanner.png)
+![anteiku](img/githubBanner.png)
 
 # Frontend (WEB) & UI/UX Expert
 
