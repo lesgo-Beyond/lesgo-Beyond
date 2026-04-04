@@ -4,9 +4,11 @@
 
 
 <p align="center">
+
 **Web Skill Stack:** HTML, CSS, JS PHP & WORDPRESS
 
 **UI/UX Skill Stack:** Figma (+ can do advanced prototyping & product designing [Web & App] ), Canva (Corporate Poster Designing)
+
 </p>
 
 ---
