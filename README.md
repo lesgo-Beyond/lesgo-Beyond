@@ -1,6 +1,6 @@
 ![anteiku](img/githubBanner.png)
 
-# Frontend (WEB) & UI/UX Expert
+<h1 align="center">Frontend (Web) & UI/UX Expert</h1>
 
 **Web Skill Stack:** HTML, CSS, JS PHP & WORDPRESS
 
